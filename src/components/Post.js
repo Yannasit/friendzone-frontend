@@ -15,7 +15,7 @@ function Post({ color }) {
     <CardColumns>
       <Card>
       
-      <CardTitle tag="h5">Nutthapon Saefong 000</CardTitle>
+      <CardTitle tag="h5">Nutthapon Saefong 012</CardTitle>
      
       <CardText>
       หาเพื่อนเที่ยวเชียงใหม่ ในช่วงปีใหม่นี้ครับ
