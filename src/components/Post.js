@@ -8,7 +8,7 @@ import {
   Button,
   CardImg,
   CardColumns,
-} from "reactstrap";
+} from "reactstrap"; 
 
 function Post({ color }) {
   return (
