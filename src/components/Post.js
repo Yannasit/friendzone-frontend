@@ -14,14 +14,22 @@ function Post({ color }) {
   return (
     <CardColumns>
       <Card>
+      
+      <CardTitle tag="h5">Nutthapon Saefong</CardTitle>
+     
+      <CardText>
+      หาเพื่อนเที่ยวเชียงใหม่ ในช่วงปีใหม่นี้ครับ
+            <Button style={{ margin: "10px", backgroundColor:"Pink"}}>+เข้าร่วม</Button>
+          </CardText>
+      
         <CardImg
-          alt="Card image cap"
+         
           src="https://picsum.photos/256/186"
-          top
+         
           width="100%"
         />
         <CardBody>
-          <CardTitle tag="h5">Card title</CardTitle>
+          
           <CardSubtitle className="mb-2 text-muted" tag="h6">
             Card subtitle
           </CardSubtitle>
