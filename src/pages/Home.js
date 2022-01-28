@@ -1,7 +1,11 @@
 import React from "react";
 
-function Hone() {
-  return <div><h1>Home page</h1></div>;
+function Home() {
+  return (
+    <div>
+        <p>HomePage</p>
+    </div>
+)
 }
 
-export default Hone;
+export default Home;
